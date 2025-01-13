@@ -2,7 +2,7 @@
 
 ## **Architecture Diagram**
 
-![GCP Data Pipeline Architecture](https://drive.google.com/file/d/15fLtnt1SzA4fWATsl_eJ0C8w39yYf8Z1/view?usp=drive_link)
+![GCP Data Pipeline Architecture](https://github.com/rennykurniasari/assignment/blob/main/data%20orchestration.png)
 
 ## **Components Overview**
 
