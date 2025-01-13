@@ -2,7 +2,7 @@
 
 ## **Architecture Diagram**
 
-![GCP Data Pipeline Architecture](https://via.placeholder.com/1024x768.png?text=GCP+Data+Pipeline+Architecture+Diagram)
+![GCP Data Pipeline Architecture](https://drive.google.com/file/d/15fLtnt1SzA4fWATsl_eJ0C8w39yYf8Z1/view?usp=sharing)
 
 ## **Components Overview**
 
